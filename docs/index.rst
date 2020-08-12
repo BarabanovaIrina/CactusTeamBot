@@ -13,6 +13,9 @@ Contents
    authors
    changelog
 
+This is another branch docs
+===========================
+
 Indices and tables
 ==================
 
